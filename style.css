@@ -38,6 +38,7 @@ body{
     text-align: center;
     line-height: 80px;
     background-color: #1f4f66;
+    user-select: none;
 }
 .calculadora span:active { 
     background-color: #42e123;
