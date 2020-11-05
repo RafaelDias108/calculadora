@@ -2,4 +2,6 @@
 
 Calculadora básica desenvolvida com html, css e javascript. 
 
-`Desenvolvido por :` Rafael Dias
+ 🔗 Link https://rafaeld108.github.io/calculadora/
+
+`Desenvolvido por :` Rafael Dias 👨‍💻
